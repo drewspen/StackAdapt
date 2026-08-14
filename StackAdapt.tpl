@@ -1,4 +1,4 @@
-﻿___INFO___
+___INFO___
 
 {
   "type": "TAG",
@@ -45,7 +45,7 @@ ___TEMPLATE_PARAMETERS___
       {
         "type": "REGEX",
         "args": [
-          "^https\\;\\/\\/.*stackadapt.*\\/.*js$"
+          "^https\\:\\/\\/.*stackadapt.*\\/.*js$"
         ]
       }
     ]
@@ -390,6 +390,4 @@ scenarios: []
 
 ___NOTES___
 
-Created on 6/9/2025, 9:25:58 AM
-
-
+Created on 8/14/2026, 7:04:12 AM
